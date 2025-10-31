@@ -44,7 +44,7 @@ Permite **listar**, **agregar** y **alternar** productos (campo `adquirido`) den
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/USUARIO/tienda-laravel.git
+   git clone https://github.com/JaimeCordero26/Practica-Tienda-webIII.git
    cd tienda-laravel/Tienda
    ```
 
@@ -145,7 +145,7 @@ git init
 git add .
 git commit -m "Proyecto Mini-Inventario Laravel (Linux)"
 git branch -M main
-git remote add origin https://github.com/USUARIO/tienda-laravel.git
+git remote add origin https://github.com/JaimeCordero26/Practica-Tienda-webIII.git
 git push -u origin main
 ```
 
@@ -153,7 +153,7 @@ git push -u origin main
 
 ## 📂 Evidencias
 
-Guarda tus capturas (pantallas del navegador, base de datos y código) dentro de la carpeta:
+La evidencias están en un docx dentro de la carpeta evidences:
 
 ```
 Evidencias/
